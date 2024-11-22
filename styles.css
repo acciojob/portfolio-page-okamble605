@@ -1,2 +1,42 @@
 
 /* Your CSS Code here. */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+img {
+    margin-top: 20px;
+}
+
+section {
+    margin: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    background-color: #ddd;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+a {
+    color: #0077b5;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
